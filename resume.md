@@ -1,16 +1,14 @@
 # Chaitanya Dwivedi
-
-###### [ [LinkedIn](https://www.linkedin.com/in/chaitanyadwivedi) ] [ chait.dwivedi@gmail.com ] [ 617 435 5467 ] [Austin Texas]
+###### [LinkedIn](https://www.linkedin.com/in/chaitanyadwivedi) | chait.dwivedi@gmail.com | 617-435-467 | Austin, Texas
 
 ## Experience
 ### Senior Software Engineer, Arm
 *July 2015-present, Austin TX*
 
-- End-to-end development of command line tools which includes requirements gathering, coding, testing and deployment for Productiviy Engineering Group.
+- End-to-end development of command line tools.
 - Development, management and support of CI/CD framework on Jenkins.
 
-**Projects**
-
+#### Projects
 - Developing a tool using Groovy and Python to generated Scripted Jenkins Pipelines from text configuration using Shared Libraries to abstract the pipeline buildin gprocess from the user.
 - Develoeped Machine Readable Specification for Directory Structures in YAML to validate given specification against deliverable IP.
 - Wrote a tool to simplify and streamline deliverables review checklists by developing conditional reviews in markdown
