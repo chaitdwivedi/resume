@@ -1,0 +1,1 @@
+pandoc -V geometry:"top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm" -V pagestyle=empty -V fontfamily=lmodern resume.md -o resume.pdf

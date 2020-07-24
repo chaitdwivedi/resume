@@ -1,5 +1,5 @@
 # Chaitanya Dwivedi
-###### [LinkedIn](https://www.linkedin.com/in/chaitanyadwivedi) | chait.dwivedi@gmail.com | 617-435-467 | Austin, Texas
+###### [LinkedIn](https://www.linkedin.com/in/chaitanyadwivedi) | chait.dwivedi@gmail.com | 617-435-5467 | Austin, Texas
 
 ## Experience
 ### Senior Software Engineer, Arm
