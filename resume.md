@@ -9,7 +9,7 @@
 - Development, management and support of CI/CD framework on Jenkins.
 
 #### Projects
-- Developing a tool using Groovy and Python to generated Scripted Jenkins Pipelines from text configuration using Shared Libraries to abstract the pipeline buildin gprocess from the user.
+- Developing a tool using Groovy and Python to generated Scripted Jenkins Pipelines from text configuration using Shared Libraries to abstract the pipeline building process from the user.
 - Develoeped Machine Readable Specification for Directory Structures in YAML to validate given specification against deliverable IP.
 - Wrote a tool to simplify and streamline deliverables review checklists by developing conditional reviews in markdown
     - Extended markdown parsers to include programmable constructs
