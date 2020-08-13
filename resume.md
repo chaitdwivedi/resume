@@ -10,7 +10,7 @@
 
 #### Projects
 - Developing a tool using Groovy and Python to generated Scripted Jenkins Pipelines from text configuration using Shared Libraries to abstract the pipeline building process from the user.
-- Develoeped Machine Readable Specification for Directory Structures in YAML to validate given specification against deliverable IP.
+- Developed Machine Readable Specification for Directory Structures in YAML to validate given specification against deliverable IP.
 - Wrote a tool to simplify and streamline deliverables review checklists by developing conditional reviews in markdown
     - Extended markdown parsers to include programmable constructs
     - Related reviews formed a dependency graph that was resolved to only show users reviews that pertain to their current stage/project.
